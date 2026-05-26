@@ -1,0 +1,11 @@
+{
+  "name": "cozy-hobby-corner",
+  "description": "A warm and relaxing hobby blog for seniors — painting, knitting, woodworking, puzzles, and creative retirement activities.",
+  "repository": "https://github.com/your-org/cozy-hobby-corner",
+  "keywords": ["hobby", "seniors", "blog", "react", "vite"],
+  "buildpacks": [{ "url": "heroku/nodejs" }],
+  "scripts": { "postdeploy": "npm run build" },
+  "env": {
+    "NODE_ENV": { "value": "production" }
+  }
+}
