@@ -22,7 +22,7 @@ export default function Contact() {
             </div>
             <div className="card p-6">
               <h3 className="font-serif text-xl text-brownDark mb-2">Phone</h3>
-              <p className="text-ink/80">(503) 555-1876</p>
+              <p className="text-ink/80">+1 (617) 529-7741</p>
             </div>
             <div className="card p-6">
               <h3 className="font-serif text-xl text-brownDark mb-2">Address</h3>

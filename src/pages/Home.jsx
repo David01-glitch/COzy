@@ -148,7 +148,7 @@ export default function Home() {
           </div>
           <div className="bg-cream/10 rounded-2xl p-6 space-y-2">
             <p><strong>Email:</strong> cozyhobbycorner@gmail.com</p>
-            <p><strong>Phone:</strong> (503) 555-1876</p>
+            <p><strong>Phone:</strong> +1 (617) 529-7741</p>
             <p><strong>Address:</strong> 311 Maple Creek Rd, Portland, OR 97205</p>
           </div>
         </div>

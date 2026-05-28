@@ -28,7 +28,7 @@ export default function Footer() {
           <h4 className="font-serif text-lg mb-3">Contact</h4>
           <ul className="space-y-2 text-sm text-cream/80">
             <li>cozyhobbycorner@gmail.com</li>
-            <li>(503) 555-1876</li>
+            <li>+1 (617) 529-7741</li>
             <li>311 Maple Creek Rd</li>
             <li>Portland, OR 97205</li>
           </ul>

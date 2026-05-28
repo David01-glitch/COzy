@@ -54,7 +54,7 @@ export function Refund() {
         <h3 className="font-serif text-xl text-brownDark pt-2">How Refunds Work</h3>
         <p>Approved refunds are processed to your original payment method within 5–10 business days. We do not charge any restocking or processing fees.</p>
         <h3 className="font-serif text-xl text-brownDark pt-2">Questions</h3>
-        <p>Email cozyhobbycorner@gmail.com or call (503) 555-1876 during normal business hours, Monday through Friday.</p>
+        <p>Email cozyhobbycorner@gmail.com or call +1 (617) 529-7741 during normal business hours, Monday through Friday.</p>
       </div>
     </div>
   )
